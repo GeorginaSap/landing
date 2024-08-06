@@ -1,0 +1,12 @@
+.btn {
+  background-color: #273a09;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 20px;
+}
+
+.btn:hover {
+  background-color: bisque;
+}
